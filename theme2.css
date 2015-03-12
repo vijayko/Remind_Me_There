@@ -1,0 +1,16 @@
+body{
+	color: #eee;
+}
+.col-md-4{
+	margin-top: 200px;
+	text-align: center;
+	font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;;
+	color: #0277BD;
+}
+.col-md-4{
+	font-size: 18px;
+	font-style: bold;
+}
+.btn{
+	background-color: #ababab;
+}
